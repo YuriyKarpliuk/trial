@@ -8,8 +8,6 @@ public class Peerson {
     private String age;
     private Integer height;
 
-    private List<String> marks;
-
     public String getName() {
         return name;
     }
