@@ -6,8 +6,7 @@ import java.util.List;
 public class Peerson {
     private String name;
     private String age;
-
-    private List<String> marks;
+    private Integer height;
 
     public String getName() {
         return name;
