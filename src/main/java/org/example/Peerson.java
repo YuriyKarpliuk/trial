@@ -5,6 +5,7 @@ import java.util.List;
 
 public class Peerson {
     private String name;
+    private String lastName;
     private String age;
 
     private List<String> marks;
