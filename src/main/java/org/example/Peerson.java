@@ -7,6 +7,7 @@ public class Peerson {
     private String name;
     private String lastName;
     private String age;
+    private Integer height;
 
     private List<String> marks;
 
