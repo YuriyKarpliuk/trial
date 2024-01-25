@@ -10,6 +10,10 @@ public class Main {
 
 
         List<Integer> integers = List.of(1, 2, 3, 4, 5, 6, 7, 8, 12, 20, 25, 2, 2, 2, 5, 6, 6, 7, 20);
+        List<Integer> integers1 = List.of(1, 2, 3, 4, 5, 6, 7, 8, 12, 20, 25, 2, 2, 2, 5, 6, 6, 7, 20);
+        List<Integer> integers2= List.of(1, 2, 3, 4, 5, 6, 7, 8, 12, 20, 25, 2, 2, 2, 5, 6, 6, 7, 20);
+        List<Integer> integers3 = List.of(1, 2, 3, 4, 5, 6, 7, 8, 12, 20, 25, 2, 2, 2, 5, 6, 6, 7, 20);
+        List<Integer> integers4 = List.of(1, 2, 3, 4, 5, 6, 7, 8, 12, 20, 25, 2, 2, 2, 5, 6, 6, 7, 20);
 
     }
 
